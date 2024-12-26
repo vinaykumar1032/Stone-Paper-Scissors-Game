@@ -1,4 +1,4 @@
-# Stone Paper Scissors Game (Player vs. Computer)
+# Stone Paper Scissors Game (Player vs Computer)
 
 This is a digital version of the classic Stone, Paper, Scissors game where you compete against the computer. Built using HTML, CSS, and JavaScript, this game offers a fun and interactive way to play against an AI opponent.
 
